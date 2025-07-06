@@ -34,3 +34,29 @@ Create database
 CREATE DATABASE databasename;
 Drop database
 DROP DATABASE testDB;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
